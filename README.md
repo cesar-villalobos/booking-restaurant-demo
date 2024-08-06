@@ -6,7 +6,7 @@ A demo table-booking system using React. It's a fully responsive web app that al
 
 ### Links
 
-- Live : [Demo](https://demolittle.vercel.app/)
+- Live : [Demo](https://booking-restaurant-demo.vercel.app/)
 
 ## My process
 
